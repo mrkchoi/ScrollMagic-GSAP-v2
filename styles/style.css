@@ -33,7 +33,7 @@
 .main2__content {
   max-width: 60rem;
   display: inline-block;
-  overflow: hidden;
+  /* overflow: hidden; */
   padding: 1rem 2rem;
 }
 .main2__header {
@@ -58,7 +58,7 @@
 .main3__content {
   max-width: 60rem;
   display: inline-block;
-  overflow: hidden;
+  /* overflow: hidden; */
   padding: 1rem 2rem;
 }
 .main3__header {
@@ -85,7 +85,7 @@
 .main4__content {
   max-width: 60rem;
   display: inline-block;
-  overflow: hidden;
+  /* overflow: hidden; */
   padding: 1rem 2rem;
 }
 .main4__header {
